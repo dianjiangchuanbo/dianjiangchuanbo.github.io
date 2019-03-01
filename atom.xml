@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>典匠</title>
+  
+  <subtitle>四川典匠文化传播有限责任公司</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://dianjiangchuanbo.github.io/"/>
+  <updated>2019-03-01T10:03:01.270Z</updated>
+  <id>http://dianjiangchuanbo.github.io/</id>
+  
+  <author>
+    <name>Berome</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://dianjiangchuanbo.github.io/2019/03/01/hello-world/"/>
+    <id>http://dianjiangchuanbo.github.io/2019/03/01/hello-world/</id>
+    <published>2019-03-01T09:22:47.523Z</published>
+    <updated>2019-03-01T10:03:01.270Z</updated>
+    
+    <content type="html"><![CDATA[<p>hello</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;hello&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
