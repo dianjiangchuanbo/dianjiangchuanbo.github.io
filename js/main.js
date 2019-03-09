@@ -1,0 +1,1 @@
+$(document).ready(function(){var o="color: #fff; background: #f75357; padding: 1px; border-radius: 5px;";console.log("%c 🎯 Material-T",o),console.log("%c 🏷 Version: 0.9.1 ",o),console.log("%c 📦 https://github.com/invom/Material-T ",o)});
