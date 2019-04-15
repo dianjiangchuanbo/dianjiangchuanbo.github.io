@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://dianjiangchuanbo.github.io/2019/04/04/hello-world/</loc>
+    
+    <lastmod>2019-04-15T04:52:45.429Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://dianjiangchuanbo.github.io/about/index.html</loc>
     
     <lastmod>2019-04-15T04:45:09.600Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://dianjiangchuanbo.github.io/gallery/index.html</loc>
     
     <lastmod>2019-03-09T17:49:15.506Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://dianjiangchuanbo.github.io/2019/04/04/hello-world/</loc>
-    
-    <lastmod>2019-03-09T17:29:35.644Z</lastmod>
     
   </url>
   
